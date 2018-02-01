@@ -3,8 +3,8 @@
   "version": "0.0.3",
   "files": [
     "vendor",
-    "dll"
+    "dll",
+    "index.js"
   ],
-  "main": "./index.js",
   "author": "paul@logojoy.com (Paul Xu)"
 }
