@@ -2,7 +2,9 @@
   "name": "@logojoy/aws-lambda-poppler",
   "version": "0.0.2",
   "files": [
-    "vendor"
+    "vendor",
+    "dll"
   ],
+  "main": "./index.js",
   "author": "paul@logojoy.com (Paul Xu)"
 }
